@@ -1,0 +1,748 @@
+{
+  "forsterite_1layer_surface_NBO_H": {
+    "surface_depth_a": 1.0,
+    "oh_length_a": 0.98,
+    "site_rule": "top_surface_non_bridging_oxygen",
+    "network_former_cutoffs_a": {
+      "Si": 2.0,
+      "Al": 2.2
+    },
+    "max_network_former_neighbors": 1,
+    "max_o_z_a": 12.747156820000004,
+    "n_top_surface_o": 12,
+    "n_surface_nbo": 12,
+    "pairs": [
+      {
+        "o_index": 70,
+        "h_index": 336,
+        "o_z_a": 12.747156820000004,
+        "network_former_coordination": 1,
+        "network_former_neighbors": [
+          {
+            "index": 67,
+            "symbol": "Si",
+            "distance_a": 1.640368836844215,
+            "cutoff_a": 2.0
+          }
+        ],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 75,
+        "h_index": 337,
+        "o_z_a": 12.747156820000004,
+        "network_former_coordination": 1,
+        "network_former_neighbors": [
+          {
+            "index": 64,
+            "symbol": "Si",
+            "distance_a": 1.6403688368442155,
+            "cutoff_a": 2.0
+          }
+        ],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 98,
+        "h_index": 338,
+        "o_z_a": 12.747156820000004,
+        "network_former_coordination": 1,
+        "network_former_neighbors": [
+          {
+            "index": 95,
+            "symbol": "Si",
+            "distance_a": 1.6403688368442144,
+            "cutoff_a": 2.0
+          }
+        ],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 103,
+        "h_index": 339,
+        "o_z_a": 12.747156820000004,
+        "network_former_coordination": 1,
+        "network_former_neighbors": [
+          {
+            "index": 92,
+            "symbol": "Si",
+            "distance_a": 1.6403688368442157,
+            "cutoff_a": 2.0
+          }
+        ],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 182,
+        "h_index": 340,
+        "o_z_a": 12.747156820000004,
+        "network_former_coordination": 1,
+        "network_former_neighbors": [
+          {
+            "index": 179,
+            "symbol": "Si",
+            "distance_a": 1.6403688368442153,
+            "cutoff_a": 2.0
+          }
+        ],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 187,
+        "h_index": 341,
+        "o_z_a": 12.747156820000004,
+        "network_former_coordination": 1,
+        "network_former_neighbors": [
+          {
+            "index": 176,
+            "symbol": "Si",
+            "distance_a": 1.6403688368442157,
+            "cutoff_a": 2.0
+          }
+        ],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 210,
+        "h_index": 342,
+        "o_z_a": 12.747156820000004,
+        "network_former_coordination": 1,
+        "network_former_neighbors": [
+          {
+            "index": 207,
+            "symbol": "Si",
+            "distance_a": 1.6403688368442144,
+            "cutoff_a": 2.0
+          }
+        ],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 215,
+        "h_index": 343,
+        "o_z_a": 12.747156820000004,
+        "network_former_coordination": 1,
+        "network_former_neighbors": [
+          {
+            "index": 204,
+            "symbol": "Si",
+            "distance_a": 1.640368836844216,
+            "cutoff_a": 2.0
+          }
+        ],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 294,
+        "h_index": 344,
+        "o_z_a": 12.747156820000004,
+        "network_former_coordination": 1,
+        "network_former_neighbors": [
+          {
+            "index": 291,
+            "symbol": "Si",
+            "distance_a": 1.6403688368442146,
+            "cutoff_a": 2.0
+          }
+        ],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 299,
+        "h_index": 345,
+        "o_z_a": 12.747156820000004,
+        "network_former_coordination": 1,
+        "network_former_neighbors": [
+          {
+            "index": 288,
+            "symbol": "Si",
+            "distance_a": 1.6403688368442173,
+            "cutoff_a": 2.0
+          }
+        ],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 322,
+        "h_index": 346,
+        "o_z_a": 12.747156820000004,
+        "network_former_coordination": 1,
+        "network_former_neighbors": [
+          {
+            "index": 319,
+            "symbol": "Si",
+            "distance_a": 1.6403688368442138,
+            "cutoff_a": 2.0
+          }
+        ],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 327,
+        "h_index": 347,
+        "o_z_a": 12.747156820000004,
+        "network_former_coordination": 1,
+        "network_former_neighbors": [
+          {
+            "index": 316,
+            "symbol": "Si",
+            "distance_a": 1.6403688368442175,
+            "cutoff_a": 2.0
+          }
+        ],
+        "initial_oh_distance_a": 0.98
+      }
+    ],
+    "mineral": "forsterite",
+    "bulk_structure": "<REPO_ROOT>/structures/Mg2SiO4_balanced.xyz",
+    "structure": "<REPO_ROOT>/structures/forsterite_1layer_surface_NBO_H.xyz",
+    "natoms_before_h": 336,
+    "natoms_after_h": 348
+  },
+  "fayalite_1layer_surface_NBO_H": {
+    "surface_depth_a": 1.0,
+    "oh_length_a": 0.98,
+    "site_rule": "top_surface_non_bridging_oxygen",
+    "network_former_cutoffs_a": {
+      "Si": 2.0,
+      "Al": 2.2
+    },
+    "max_network_former_neighbors": 1,
+    "max_o_z_a": 21.25978485,
+    "n_top_surface_o": 12,
+    "n_surface_nbo": 12,
+    "pairs": [
+      {
+        "o_index": 71,
+        "h_index": 336,
+        "o_z_a": 21.25978485,
+        "network_former_coordination": 0,
+        "network_former_neighbors": [],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 99,
+        "h_index": 337,
+        "o_z_a": 21.25978485,
+        "network_former_coordination": 0,
+        "network_former_neighbors": [],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 183,
+        "h_index": 338,
+        "o_z_a": 21.25978485,
+        "network_former_coordination": 0,
+        "network_former_neighbors": [],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 211,
+        "h_index": 339,
+        "o_z_a": 21.25978485,
+        "network_former_coordination": 0,
+        "network_former_neighbors": [],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 295,
+        "h_index": 340,
+        "o_z_a": 21.25978485,
+        "network_former_coordination": 0,
+        "network_former_neighbors": [],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 323,
+        "h_index": 341,
+        "o_z_a": 21.25978485,
+        "network_former_coordination": 0,
+        "network_former_neighbors": [],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 74,
+        "h_index": 342,
+        "o_z_a": 20.81469899,
+        "network_former_coordination": 1,
+        "network_former_neighbors": [
+          {
+            "index": 65,
+            "symbol": "Si",
+            "distance_a": 1.6289001813594917,
+            "cutoff_a": 2.0
+          }
+        ],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 102,
+        "h_index": 343,
+        "o_z_a": 20.81469899,
+        "network_former_coordination": 1,
+        "network_former_neighbors": [
+          {
+            "index": 93,
+            "symbol": "Si",
+            "distance_a": 1.628900191349436,
+            "cutoff_a": 2.0
+          }
+        ],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 186,
+        "h_index": 344,
+        "o_z_a": 20.81469899,
+        "network_former_coordination": 1,
+        "network_former_neighbors": [
+          {
+            "index": 177,
+            "symbol": "Si",
+            "distance_a": 1.6289001813594932,
+            "cutoff_a": 2.0
+          }
+        ],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 214,
+        "h_index": 345,
+        "o_z_a": 20.81469899,
+        "network_former_coordination": 1,
+        "network_former_neighbors": [
+          {
+            "index": 205,
+            "symbol": "Si",
+            "distance_a": 1.6289001913494372,
+            "cutoff_a": 2.0
+          }
+        ],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 298,
+        "h_index": 346,
+        "o_z_a": 20.81469899,
+        "network_former_coordination": 1,
+        "network_former_neighbors": [
+          {
+            "index": 289,
+            "symbol": "Si",
+            "distance_a": 1.6289001813594934,
+            "cutoff_a": 2.0
+          }
+        ],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 326,
+        "h_index": 347,
+        "o_z_a": 20.81469899,
+        "network_former_coordination": 1,
+        "network_former_neighbors": [
+          {
+            "index": 317,
+            "symbol": "Si",
+            "distance_a": 1.6289001913494356,
+            "cutoff_a": 2.0
+          }
+        ],
+        "initial_oh_distance_a": 0.98
+      }
+    ],
+    "mineral": "fayalite",
+    "bulk_structure": "<REPO_ROOT>/structures/Fe2SiO4_balanced.xyz",
+    "structure": "<REPO_ROOT>/structures/fayalite_1layer_surface_NBO_H.xyz",
+    "natoms_before_h": 336,
+    "natoms_after_h": 348
+  },
+  "ilmenite_1layer_surface_NBO_H": {
+    "surface_depth_a": 1.0,
+    "oh_length_a": 0.98,
+    "site_rule": "top_surface_non_bridging_oxygen",
+    "network_former_cutoffs_a": {
+      "Si": 2.0,
+      "Al": 2.2
+    },
+    "max_network_former_neighbors": 1,
+    "max_o_z_a": 13.759354119999996,
+    "n_top_surface_o": 36,
+    "n_surface_nbo": 36,
+    "pairs": [
+      {
+        "o_index": 26,
+        "h_index": 360,
+        "o_z_a": 13.759354119999996,
+        "network_former_coordination": 0,
+        "network_former_neighbors": [],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 56,
+        "h_index": 361,
+        "o_z_a": 13.759354119999996,
+        "network_former_coordination": 0,
+        "network_former_neighbors": [],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 86,
+        "h_index": 362,
+        "o_z_a": 13.759354119999996,
+        "network_former_coordination": 0,
+        "network_former_neighbors": [],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 116,
+        "h_index": 363,
+        "o_z_a": 13.759354119999996,
+        "network_former_coordination": 0,
+        "network_former_neighbors": [],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 146,
+        "h_index": 364,
+        "o_z_a": 13.759354119999996,
+        "network_former_coordination": 0,
+        "network_former_neighbors": [],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 176,
+        "h_index": 365,
+        "o_z_a": 13.759354119999996,
+        "network_former_coordination": 0,
+        "network_former_neighbors": [],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 206,
+        "h_index": 366,
+        "o_z_a": 13.759354119999996,
+        "network_former_coordination": 0,
+        "network_former_neighbors": [],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 236,
+        "h_index": 367,
+        "o_z_a": 13.759354119999996,
+        "network_former_coordination": 0,
+        "network_former_neighbors": [],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 266,
+        "h_index": 368,
+        "o_z_a": 13.759354119999996,
+        "network_former_coordination": 0,
+        "network_former_neighbors": [],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 296,
+        "h_index": 369,
+        "o_z_a": 13.759354119999996,
+        "network_former_coordination": 0,
+        "network_former_neighbors": [],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 326,
+        "h_index": 370,
+        "o_z_a": 13.759354119999996,
+        "network_former_coordination": 0,
+        "network_former_neighbors": [],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 356,
+        "h_index": 371,
+        "o_z_a": 13.759354119999996,
+        "network_former_coordination": 0,
+        "network_former_neighbors": [],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 24,
+        "h_index": 372,
+        "o_z_a": 13.736426719999999,
+        "network_former_coordination": 0,
+        "network_former_neighbors": [],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 54,
+        "h_index": 373,
+        "o_z_a": 13.736426719999999,
+        "network_former_coordination": 0,
+        "network_former_neighbors": [],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 84,
+        "h_index": 374,
+        "o_z_a": 13.736426719999999,
+        "network_former_coordination": 0,
+        "network_former_neighbors": [],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 114,
+        "h_index": 375,
+        "o_z_a": 13.736426719999999,
+        "network_former_coordination": 0,
+        "network_former_neighbors": [],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 144,
+        "h_index": 376,
+        "o_z_a": 13.736426719999999,
+        "network_former_coordination": 0,
+        "network_former_neighbors": [],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 174,
+        "h_index": 377,
+        "o_z_a": 13.736426719999999,
+        "network_former_coordination": 0,
+        "network_former_neighbors": [],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 204,
+        "h_index": 378,
+        "o_z_a": 13.736426719999999,
+        "network_former_coordination": 0,
+        "network_former_neighbors": [],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 234,
+        "h_index": 379,
+        "o_z_a": 13.736426719999999,
+        "network_former_coordination": 0,
+        "network_former_neighbors": [],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 264,
+        "h_index": 380,
+        "o_z_a": 13.736426719999999,
+        "network_former_coordination": 0,
+        "network_former_neighbors": [],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 294,
+        "h_index": 381,
+        "o_z_a": 13.736426719999999,
+        "network_former_coordination": 0,
+        "network_former_neighbors": [],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 324,
+        "h_index": 382,
+        "o_z_a": 13.736426719999999,
+        "network_former_coordination": 0,
+        "network_former_neighbors": [],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 354,
+        "h_index": 383,
+        "o_z_a": 13.736426719999999,
+        "network_former_coordination": 0,
+        "network_former_neighbors": [],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 25,
+        "h_index": 384,
+        "o_z_a": 13.71261199,
+        "network_former_coordination": 0,
+        "network_former_neighbors": [],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 55,
+        "h_index": 385,
+        "o_z_a": 13.71261199,
+        "network_former_coordination": 0,
+        "network_former_neighbors": [],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 85,
+        "h_index": 386,
+        "o_z_a": 13.71261199,
+        "network_former_coordination": 0,
+        "network_former_neighbors": [],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 115,
+        "h_index": 387,
+        "o_z_a": 13.71261199,
+        "network_former_coordination": 0,
+        "network_former_neighbors": [],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 145,
+        "h_index": 388,
+        "o_z_a": 13.71261199,
+        "network_former_coordination": 0,
+        "network_former_neighbors": [],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 175,
+        "h_index": 389,
+        "o_z_a": 13.71261199,
+        "network_former_coordination": 0,
+        "network_former_neighbors": [],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 205,
+        "h_index": 390,
+        "o_z_a": 13.71261199,
+        "network_former_coordination": 0,
+        "network_former_neighbors": [],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 235,
+        "h_index": 391,
+        "o_z_a": 13.71261199,
+        "network_former_coordination": 0,
+        "network_former_neighbors": [],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 265,
+        "h_index": 392,
+        "o_z_a": 13.71261199,
+        "network_former_coordination": 0,
+        "network_former_neighbors": [],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 295,
+        "h_index": 393,
+        "o_z_a": 13.71261199,
+        "network_former_coordination": 0,
+        "network_former_neighbors": [],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 325,
+        "h_index": 394,
+        "o_z_a": 13.71261199,
+        "network_former_coordination": 0,
+        "network_former_neighbors": [],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 355,
+        "h_index": 395,
+        "o_z_a": 13.71261199,
+        "network_former_coordination": 0,
+        "network_former_neighbors": [],
+        "initial_oh_distance_a": 0.98
+      }
+    ],
+    "mineral": "ilmenite",
+    "bulk_structure": "<REPO_ROOT>/structures/TiFeO3_balanced.xyz",
+    "structure": "<REPO_ROOT>/structures/ilmenite_1layer_surface_NBO_H.xyz",
+    "natoms_before_h": 360,
+    "natoms_after_h": 396
+  },
+  "anorthite_1layer_surface_NBO_H": {
+    "surface_depth_a": 1.0,
+    "oh_length_a": 0.98,
+    "site_rule": "top_surface_non_bridging_oxygen",
+    "network_former_cutoffs_a": {
+      "Si": 2.0,
+      "Al": 2.2
+    },
+    "max_network_former_neighbors": 1,
+    "max_o_z_a": 13.780729634496844,
+    "n_top_surface_o": 4,
+    "n_surface_nbo": 4,
+    "pairs": [
+      {
+        "o_index": 88,
+        "h_index": 208,
+        "o_z_a": 13.780729634496844,
+        "network_former_coordination": 1,
+        "network_former_neighbors": [
+          {
+            "index": 32,
+            "symbol": "Si",
+            "distance_a": 1.6590488079603751,
+            "cutoff_a": 2.0
+          }
+        ],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 192,
+        "h_index": 209,
+        "o_z_a": 13.780729634496844,
+        "network_former_coordination": 1,
+        "network_former_neighbors": [
+          {
+            "index": 136,
+            "symbol": "Si",
+            "distance_a": 1.6590488079603736,
+            "cutoff_a": 2.0
+          }
+        ],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 92,
+        "h_index": 210,
+        "o_z_a": 13.752879498567834,
+        "network_former_coordination": 1,
+        "network_former_neighbors": [
+          {
+            "index": 115,
+            "symbol": "Al",
+            "distance_a": 1.7802633137700221,
+            "cutoff_a": 2.2
+          }
+        ],
+        "initial_oh_distance_a": 0.98
+      },
+      {
+        "o_index": 196,
+        "h_index": 211,
+        "o_z_a": 13.75287949856783,
+        "network_former_coordination": 1,
+        "network_former_neighbors": [
+          {
+            "index": 11,
+            "symbol": "Al",
+            "distance_a": 1.7802633137700221,
+            "cutoff_a": 2.2
+          }
+        ],
+        "initial_oh_distance_a": 0.98
+      }
+    ],
+    "mineral": "anorthite",
+    "bulk_structure": "<REPO_ROOT>/structures/CaAl2Si2O8_balanced.xyz",
+    "structure": "<REPO_ROOT>/structures/anorthite_1layer_surface_NBO_H.xyz",
+    "natoms_before_h": 208,
+    "natoms_after_h": 212
+  }
+}

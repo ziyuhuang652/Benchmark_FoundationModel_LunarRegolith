@@ -1,0 +1,34 @@
+# Python/cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Conda/env artifacts
+.conda/
+.venv/
+envs/
+
+# Runtime outputs from new runs
+results/
+results_bulk/
+results_extended/
+results_oh_stable/
+analysis_oh_stable/
+figures_oh_stable/
+figures/
+run_logs/
+
+# LaTeX build files
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+
+# OS/editor files
+.DS_Store
+*.swp
+*~

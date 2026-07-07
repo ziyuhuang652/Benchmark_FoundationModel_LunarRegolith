@@ -1,0 +1,34 @@
+name: fm_models_base
+channels:
+  - conda-forge
+  - pytorch
+  - nvidia
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - jupyterlab
+  - ipykernel
+  - nbformat
+  - ase
+  - pymatgen
+  - pytorch
+  - pytorch-cuda=12.1
+  - pip:
+      - torch-geometric
+      - e3nn
+      - psutil
+      - tqdm
+      - requests
+      # Install model packages after creating the environment, because their
+      # current wheels and CUDA constraints can change by machine.
+      # Typical packages used by this project:
+      #   mace-torch
+      #   mattersim
+      #   sevenn
+      #   upet
